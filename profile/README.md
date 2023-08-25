@@ -1,3 +1,3 @@
 # rustadopt
 
-Organization for adopting abandoned Rust projects in a community driven way.
+Organization for adopting and maintaining abandoned Rust projects in a community driven way.
